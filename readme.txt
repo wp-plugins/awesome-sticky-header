@@ -104,7 +104,7 @@ If you are awesome developer, there is plenty of space to extend sticky header's
 
 == Installation ==
 1. Download the plugin from this page and extract it
-2. Copy the extracted awesome-sticky-header-by-devcanyon directory to \"/wp-content/plugins/\" directory 
+2. Copy the extracted awesome-sticky-header directory to \"/wp-content/plugins/\" directory 
 3. Activate the plugin through the \"Plugins\" menu in WordPress dashboard
 4. Done! You can visit your website and start scrolling to see sticky header in action; Setup your sticky header from Appearance > Awesome Header
 
