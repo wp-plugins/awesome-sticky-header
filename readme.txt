@@ -1,13 +1,13 @@
 === Awesome Sticky Header by DevCanyon ===
 Contributors: markzero, nikolicdragan
-Tags: header, sticky header, awesome header, header, sticky menu, fixed header, submenus, header admin control, header options, breadcrumbs
+Tags: header, sticky header, awesome header, header, sticky menu, fixed header, submenus, header admin control, header options
 Requires at least: 4.2.2
 Tested up to: 4.2.2
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Get maximum control over your sticky header. Set your menu, your colors, backgrounds or transparency, your logo, breadcrumbs and much more!
+Get maximum control over your sticky header. Set your menu, your colors, backgrounds or transparency, your logo and much more!
 
 == Description ==
 
