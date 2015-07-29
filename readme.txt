@@ -17,6 +17,8 @@ Get maximum control over your sticky header. Set your menu, submenus, secondary 
 
 Live preview of your settings changes in plugin's page in admin area. After you change menu position, link colors, backgrounds, you can see it immediately how will it look on your website.
 
+If you need the whole header replacement including the sticky header, with Top and Bottom header parts and more menus and breadcrumbs, you can buy [PRO version](http://codecanyon.net/item/awesome-header/11358372) called [Awesome Header](http://awesomeheader.com/) or go to [Playground](http://awesomeheader.com/playground/) to check out demos of what common features it offers.
+
 = Settings =
 
 Awesome Sticky Header by DevCanyon has long list of settings you can use to make your sticky header look the way you want.
